@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f0f0f0;
+}
+
+.red-box{
+    background-color: red;  
+}
+.green-box{
+    background-color: green;
+    
+}
+
+.blue-box{
+    background-color: blue;
+    
+}
+
+.yellow-box{
+    background-color: yellow;
+}
+
+.btn{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 3px solid #000;
+}
+
+.gameflash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: black;
+}
